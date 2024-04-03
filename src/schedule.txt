@@ -1,0 +1,54 @@
+Module: istoria Group: B1 Time: wen 9:00 - 10:00 Professor: Kostantina_Kuriaki-----
+
+Module: arxaia_keimena Group: B1 Time: fri 14:00 - 15:00 Professor: Kostantina_Kuriaki-----
+
+Module: arxaia_keimena Group: C1 Time: Mon 12:00 - 13:00 Professor: Kostantina_Kuriaki-----
+
+Module: istoria Group: B1 Time: Mon 12:00 - 13:00 Professor: Eui_Makrigianni-----
+
+Module: istoria Group: B1 Time: fri 12:00 - 13:00 Professor: Eui_Makrigianni-----
+
+Module: arxaia_keimena Group: B1 Time: fri 10:00 - 11:00 Professor: Eui_Makrigianni-----
+
+Module: arxaia Group: B1 Time: fri 14:00 - 15:00 Professor: Basilis_Ntakas-----
+
+Module: arxaia Group: A1 Time: Mon 13:00 - 14:00 Professor: Basilis_Ntakas-----
+
+Module: logotexnia Group: C1 Time: fri 11:00 - 12:00 Professor: Basilis_Ntakas-----
+
+Module: arxaia Group: B1 Time: fri 10:00 - 11:00 Professor: Alkibiadis_Mpotsian-----
+
+Module: logotexnia Group: C1 Time: wen 10:00 - 11:00 Professor: Alkibiadis_Mpotsian-----
+
+Module: logotexnia Group: A1 Time: tue 9:00 - 10:00 Professor: Alkibiadis_Mpotsian-----
+
+Module: glossa Group: A1 Time: thi 11:00 - 12:00 Professor: Garifalia_Papakostantinou-----
+
+Module: glossa Group: A1 Time: thi 14:00 - 15:00 Professor: Garifalia_Papakostantinou-----
+
+Module: glossa Group: A1 Time: fri 10:00 - 11:00 Professor: Garifalia_Papakostantinou-----
+
+Module: arxaia Group: B1 Time: tue 12:00 - 13:00 Professor: Basilis_Ntakas-----
+
+Module: arxaia Group: B1 Time: wen 13:00 - 14:00 Professor: Basilis_Ntakas-----
+
+Module: logotexnia Group: A1 Time: thi 11:00 - 12:00 Professor: Basilis_Ntakas-----
+
+Module: arxaia Group: A1 Time: fri 10:00 - 11:00 Professor: Alkibiadis_Mpotsian-----
+
+Module: logotexnia Group: B1 Time: tue 14:00 - 15:00 Professor: Alkibiadis_Mpotsian-----
+
+Module: logotexnia Group: C1 Time: wen 11:00 - 12:00 Professor: Alkibiadis_Mpotsian-----
+
+Module: glossa Group: C1 Time: wen 11:00 - 12:00 Professor: Garifalia_Papakostantinou-----
+
+Module: glossa Group: C1 Time: thi 10:00 - 11:00 Professor: Garifalia_Papakostantinou-----
+
+Module: glossa Group: A1 Time: tue 13:00 - 14:00 Professor: Garifalia_Papakostantinou-----
+
+Module: arxaia Group: B1 Time: tue 11:00 - 12:00 Professor: Basilis_Ntakas-----
+
+Module: arxaia Group: B1 Time: thi 8:00 - 9:00 Professor: Basilis_Ntakas-----
+
+Module: logotexnia Group: A1 Time: thi 12:00 - 13:00 Professor: Basilis_Ntakas-----
+

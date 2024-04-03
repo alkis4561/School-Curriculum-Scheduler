@@ -1,0 +1,9 @@
+01 Kostantina_Kuriaki 26 12 10 4 18
+02 Eui_Makrigianni 25 24 11 4 18
+03 Basilis_Ntakas 09 08 06 4 18
+04 Alkibiadis_Mpotsian 07 05 04 4 18
+05 Garifalia_Papakostantinou 03 02 01 3 12
+06 Basilis_Ntakas 09 08 06 4 18
+07 Alkibiadis_Mpotsian 07 05 04 4 18
+08 Garifalia_Papakostantinou 03 02 01 3 12
+09 Basilis_Ntakas 09 08 06 4 18
